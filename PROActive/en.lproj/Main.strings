@@ -1,0 +1,93 @@
+
+/* Class = "UITabBarItem"; title = "Tasks"; ObjectID = "2hc-Im-Ky8"; */
+"2hc-Im-Ky8.title" = "Tasks";
+
+/* Class = "UIButton"; configuration.title = "A few more to go!"; ObjectID = "3NZ-7y-cor"; */
+"3NZ-7y-cor.configuration.title" = "A few more to go!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3NZ-7y-cor"; */
+"3NZ-7y-cor.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name your event!"; ObjectID = "3Ue-Tv-V3J"; */
+"3Ue-Tv-V3J.text" = "Name your event!";
+
+/* Class = "UITabBarItem"; title = "New Event"; ObjectID = "3Xq-Oq-G0h"; */
+"3Xq-Oq-G0h.title" = "New Event";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4iO-5Y-pgl"; */
+"4iO-5Y-pgl.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Event Title"; ObjectID = "8k4-h5-TCu"; */
+"8k4-h5-TCu.placeholder" = "Event Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "9em-Mx-SgO"; */
+"9em-Mx-SgO.text" = "Title";
+
+/* Class = "UIButton"; configuration.title = "Setup"; ObjectID = "DNE-go-LJS"; */
+"DNE-go-LJS.configuration.title" = "Setup";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DNE-go-LJS"; */
+"DNE-go-LJS.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Event Title"; ObjectID = "E9Y-Xs-nni"; */
+"E9Y-Xs-nni.placeholder" = "Event Title";
+
+/* Class = "UIButton"; configuration.title = "Yes please!"; ObjectID = "Ey1-Vb-OnE"; */
+"Ey1-Vb-OnE.configuration.title" = "Yes please!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ey1-Vb-OnE"; */
+"Ey1-Vb-OnE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "What is your name?"; ObjectID = "HZ2-bR-c6C"; */
+"HZ2-bR-c6C.text" = "What is your name?";
+
+/* Class = "UILabel"; text = "Nice to meet you new user! Do you want me to walk you through this app?"; ObjectID = "JI8-ju-GNs"; */
+"JI8-ju-GNs.text" = "Nice to meet you new user! Do you want me to walk you through this app?";
+
+/* Class = "UILabel"; text = "What is the priority?"; ObjectID = "NHy-TT-Job"; */
+"NHy-TT-Job.text" = "What is the priority?";
+
+/* Class = "UIButton"; configuration.title = "Looks Good!"; ObjectID = "NfS-fC-4P0"; */
+"NfS-fC-4P0.configuration.title" = "Looks Good!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NfS-fC-4P0"; */
+"NfS-fC-4P0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "loreum ipsum melumn helsumn"; ObjectID = "Nnj-fn-lN9"; */
+"Nnj-fn-lN9.text" = "loreum ipsum melumn helsumn";
+
+/* Class = "UIButton"; configuration.title = "Im good..."; ObjectID = "Ry1-Ss-Vpm"; */
+"Ry1-Ss-Vpm.configuration.title" = "Im good...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ry1-Ss-Vpm"; */
+"Ry1-Ss-Vpm.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "continue"; ObjectID = "SlJ-I4-o0F"; */
+"SlJ-I4-o0F.configuration.title" = "continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SlJ-I4-o0F"; */
+"SlJ-I4-o0F.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Looks Good!"; ObjectID = "Y2a-tU-NIQ"; */
+"Y2a-tU-NIQ.configuration.title" = "Looks Good!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Y2a-tU-NIQ"; */
+"Y2a-tU-NIQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name your event!"; ObjectID = "bFA-cJ-wQg"; */
+"bFA-cJ-wQg.text" = "Name your event!";
+
+/* Class = "UIButton"; configuration.title = "New Event"; ObjectID = "chX-vZ-7L9"; */
+"chX-vZ-7L9.configuration.title" = "New Event";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "chX-vZ-7L9"; */
+"chX-vZ-7L9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "A few more to go!"; ObjectID = "edG-a9-Zwm"; */
+"edG-a9-Zwm.configuration.title" = "A few more to go!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "edG-a9-Zwm"; */
+"edG-a9-Zwm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Schedule the event!"; ObjectID = "fIe-8d-JY3"; */
+"fIe-8d-JY3.text" = "Schedule the event!";
