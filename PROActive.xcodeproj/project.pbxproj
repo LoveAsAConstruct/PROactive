@@ -16,6 +16,8 @@
 		DC670C09273AC92A00243C20 /* PROActiveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC670C08273AC92A00243C20 /* PROActiveTests.swift */; };
 		DC670C13273AC92A00243C20 /* PROActiveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC670C12273AC92A00243C20 /* PROActiveUITests.swift */; };
 		DC670C15273AC92A00243C20 /* PROActiveUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC670C14273AC92A00243C20 /* PROActiveUITestsLaunchTests.swift */; };
+		DC670C5E273C318200243C20 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC670C5D273C318200243C20 /* DataManager.swift */; };
+		DC670C61273C319D00243C20 /* Scheduled Events.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC670C5F273C319D00243C20 /* Scheduled Events.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		DC670C0E273AC92A00243C20 /* PROActiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PROActiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC670C12273AC92A00243C20 /* PROActiveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PROActiveUITests.swift; sourceTree = "<group>"; };
 		DC670C14273AC92A00243C20 /* PROActiveUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PROActiveUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DC670C5D273C318200243C20 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		DC670C60273C319D00243C20 /* Scheduled Events.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Scheduled Events.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				DC670BFA273AC92A00243C20 /* Assets.xcassets */,
 				DC670BFC273AC92A00243C20 /* LaunchScreen.storyboard */,
 				DC670BFF273AC92A00243C20 /* Info.plist */,
+				DC670C5D273C318200243C20 /* DataManager.swift */,
+				DC670C5F273C319D00243C20 /* Scheduled Events.xcdatamodeld */,
 			);
 			path = PROActive;
 			sourceTree = "<group>";
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC670BF6273AC92300243C20 /* ViewController.swift in Sources */,
+				DC670C5E273C318200243C20 /* DataManager.swift in Sources */,
 				DC670BF2273AC92300243C20 /* AppDelegate.swift in Sources */,
 				DC670BF4273AC92300243C20 /* SceneDelegate.swift in Sources */,
+				DC670C61273C319D00243C20 /* Scheduled Events.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -624,6 +632,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		DC670C5F273C319D00243C20 /* Scheduled Events.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				DC670C60273C319D00243C20 /* Scheduled Events.xcdatamodel */,
+			);
+			currentVersion = DC670C60273C319D00243C20 /* Scheduled Events.xcdatamodel */;
+			path = "Scheduled Events.xcdatamodeld";
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = DC670BE6273AC92300243C20 /* Project object */;
 }

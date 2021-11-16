@@ -2,12 +2,12 @@
   "colors" : [
     {
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
-          "blue" : "0.352",
-          "green" : "0.691",
-          "red" : "0.365"
+          "blue" : "1.000",
+          "green" : "0.765",
+          "red" : "0.000"
         }
       },
       "idiom" : "universal"
@@ -20,12 +20,12 @@
         }
       ],
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
-          "blue" : "0.169",
-          "green" : "0.500",
-          "red" : "0.775"
+          "blue" : "0.107",
+          "green" : "0.758",
+          "red" : "0.000"
         }
       },
       "idiom" : "universal"
@@ -38,12 +38,12 @@
         }
       ],
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
           "blue" : "0.000",
-          "green" : "0.388",
-          "red" : "0.806"
+          "green" : "0.396",
+          "red" : "0.000"
         }
       },
       "idiom" : "universal"
@@ -56,12 +56,12 @@
         }
       ],
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
-          "blue" : "0.296",
-          "green" : "0.985",
-          "red" : "0.268"
+          "blue" : "1.000",
+          "green" : "0.726",
+          "red" : "0.357"
         }
       },
       "idiom" : "universal"
@@ -78,12 +78,12 @@
         }
       ],
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
-          "blue" : "0.388",
+          "blue" : "1.000",
           "green" : "1.000",
-          "red" : "0.279"
+          "red" : "0.500"
         }
       },
       "idiom" : "universal"
@@ -100,12 +100,12 @@
         }
       ],
       "color" : {
-        "color-space" : "display-p3",
+        "color-space" : "srgb",
         "components" : {
           "alpha" : "1.000",
-          "blue" : "0.232",
-          "green" : "0.489",
-          "red" : "0.275"
+          "blue" : "1.000",
+          "green" : "0.279",
+          "red" : "0.000"
         }
       },
       "idiom" : "universal"
